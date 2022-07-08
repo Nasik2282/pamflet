@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.container {
+        /* remember to set a width */
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    width: 1414px;
+    height: 2000px;
+    background: #FFC501;
+}
+.splash{
+    position: relative;
+    width: 1000px;
+    height: 1000px;
+}
+
+.splash2 {
+    position: absolute;
+    width: 1500px;
+    height: 1500px;
+    left: 1x;
+    top: 1px;
+}
+
+splash2 img{
+    background: url(img/splash2.png);
+    transform: matrix(0.63, -0.78, -0.78, -0.63, 0, 0)
+}
+
+.latar{
+    position: absolute;
+    width: 1414px;
+    height: 2000px;
+    left: 0px;
+    top: 0px;
+}
+
+.latar img{
+    background: url(img/latar.png);
+    opacity: 1;
+}
+.LogoHima{
+    position: absolute;
+    width: 95px;
+    height: 101.16px;
+    left: 153px;
+    top: 34px;
+}
+.LogoUnila{
+    position: absolute;
+    width: 95px;
+    height: 93.39px;
+    left: 25px;
+    top: 34px;
+}
+.pemateri{
+    position: absolute;
+    width: 1111px;
+    height: 629px;
+    left: 136px;
+    top: 715px;
+}
+.header{
+    position: absolute;
+    width: 878px;
+    height: 313px;
+    left: 76px;
+    top: 20px;
+}
+
+h1 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 250px;
+    line-height: 312px;
+        /* identical to box height */
+    
+    
+    color: #4A337A;
+    
+    text-shadow: 11px 5px 4px rgba(0, 0, 0, 0.25)
+}
+
+.header2{
+    position: absolute;
+    width: 588px;
+    height: 125px;
+    left: 413px;
+    top: 380px;
+}
+h2{
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 125px;
+        /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #D51A80;
+    
+    text-shadow: 5px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+.kepanjangan{
+    position: absolute;
+    width: 1303px;
+    height: 88px;
+    left: -355px;
+    top: 190px;
+}
+h3{
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #4A337A;
+}
+.footer{
+    position: absolute;
+    width: 1447.22px;
+    height: 405px;
+    left: 0px;
+    top: 1621px;
+}
+.penanda{
+    position: absolute;
+    width: 1057.03px;
+    height: 288.81px;
+    left: 202px;
+    top: 1228px;
+}
+
+.header3 {
+    position: absolute;
+    width: 233px;
+    height: 63px;
+    left: 93px;
+    top: 1454px;
+}
+
+.header3 h4 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 62px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #4A337A;
+}
+
+.header4 {
+    position: absolute;
+    width: 224px;
+    height: 44px;
+    left: 93px;
+    top: 1555;
+}
+
+.header4 a {
+    
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+        /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+}
+.header5{
+    position: absolute;
+    width: 183px;
+    height: 44px;
+    left: 566px;
+    top: 1428px;
+}
+
+.header5 h6{
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+    
+        /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #4A337A;
+}
+
+.header5 a{
+    color: #FFFFFF;
+}
+
+.header6{
+    position: absolute;
+    width: 170px;
+    height: 44px;
+    left: 958px;
+    top: 1469px
+}
+
+.header6 h7 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+        /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #4A337A;
+}
+
+.header6 a {
+    color: #FFFFFF;
+}
+
+.header7 {
+    position: absolute;
+    width: 170px;
+    height: 44px;
+    left: 1206px;
+    top: 1445px;
+}
+
+.header7 h8 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+        /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #4A337A;;
+}
+
+.header7 a {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+        /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+   
+}
+.header8 {
+    position: absolute;
+    width: 428px;
+    height: 31px;
+    left: 81px;
+    top: 1916px;
+}
+
+.header8 h9{
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    letter-spacing: 0.05em;
+    
+    color: #4A337A;
+
+}
+
+.header6 a {
+    color: #FFFFFF;
+}
+
+.header9 {
+    position: absolute;
+    width: 454px;
+    height: 31px;
+    left: 1000px;
+    top: 1924px;
+}
+
+.header9 h10 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    letter-spacing: 0.05em;
+
+    
+}
+
+.header9 a {
+    color: #4A337A;
+}
